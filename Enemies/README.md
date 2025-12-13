@@ -1,1 +1,1 @@
-
+I never had the time to finish the enemies file. Please look at my towers folder instead. I had more time to document my ideas and thought process for each tower. I also provided snippet codes for each tower in that file.
